@@ -1,0 +1,26 @@
+src/vn/edu/giadinh/tuan02/lab1bai3.java
+#compiled class file
+*.class
+
+#log life 
+*.log
+
+#BlueJ files
+*.ctxt
+
+#Mobile Tools for java
+.mtj.tmp/
+
+#pagkeage Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+.vscode/setting.json
+
